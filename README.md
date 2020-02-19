@@ -9,9 +9,9 @@ First power on the arduino system, then run **`mouse_server.py`** after bluetoot
 ### Prerequisites
 
 the following block diagram describe the circuit
-![Schem Img](https://raw.githubusercontent.com/polzbit/Gyro_Mouse/raw/master/resource/final_proj_schem.png)
+![Schem Img](https://github.com/polzbit/Gyro_Mouse/raw/master/resource/final_proj_schem.png)
 the following image describe the connection
-![Con Img](https://raw.githubusercontent.com/polzbit/Gyro_Mouse/raw/master/resource/b.png)
+![Con Img](https://github.com/polzbit/Gyro_Mouse/raw/master/resource/b.png)
 
 ## License
 
