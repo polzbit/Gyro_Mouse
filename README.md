@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-First power on the arduino system then run **`mouse_server.py`** after bluetooth scan it will prompt the user to choose bluetooth COM port from a list. input the right COM and the server will start receiving data from the arduino.
+First power on the arduino system, then run **`mouse_server.py`** after bluetooth scan the terminal will prompt the user to choose bluetooth COM port from a list. input the right COM and the server will start receiving data from the arduino.
 
 ### Prerequisites
 
