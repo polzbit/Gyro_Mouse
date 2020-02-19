@@ -1,7 +1,5 @@
 # Gyro Mouse
-```
-One Paragraph of project description goes here
-```
+
 **`Gyro_Mouse`**  is an Arduino based system I've made as a first project. this system controls windows cursor according to the system momentary velocity.
 
 ## Getting Started
